@@ -1,11 +1,17 @@
 # ⚛️ React Multi-File Text Editor ⚛️
-### 🎨 Advanced State-Driven UI Architecture Project 🎨 
+### 🎨 Advanced State-Driven UI Architecture Project 🎨
 
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Architecture](https://img.shields.io/badge/Focus-UI%20Architecture-8A2BE2?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Portfolio%20Project-2EA44F?style=for-the-badge)
+
+---
+
+> Advanced frontend architecture project  
+> focusing on **state orchestration, modular component design, and undo-based interaction systems**  
+> built with React + Vite as a structured UI engineering showcase.
 
 ---
 
