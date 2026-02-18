@@ -1,5 +1,5 @@
 # ⚛️ React Multi-File Text Editor ⚛️
-### 🧠 Advanced State-Driven UI Architecture Project 🧠 
+### 🎨 Advanced State-Driven UI Architecture Project 🎨 
 
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white)
